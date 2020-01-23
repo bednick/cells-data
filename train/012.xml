@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>train</folder>
 	<filename>012.jpg</filename>
-	<path>./012.jpg</path>
+	<path>./cells-data/train/012.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
